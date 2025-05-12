@@ -9,6 +9,9 @@ package com.endes;
 public class Calculadora {
 	private int num1;
     private int num2;
+    
+    
+    String lope = "Siempre sabe cosas";
 
 
   // ejemplo de comentario.
@@ -16,6 +19,7 @@ public class Calculadora {
   // Comentario de Daniel
     // Comentario de Daniel 2
     // Comentario de Daniel 3
+    // Comentario de Daniel 4
   
     /**
      * Iniciar clase
